@@ -1,0 +1,1 @@
+print("hello from docker and github project")
